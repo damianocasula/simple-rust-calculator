@@ -1,4 +1,4 @@
-# first-rust-code
+# simple-rust-calculator
 
 My first exposure to the Rust programming language.
 
